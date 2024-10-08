@@ -116,7 +116,6 @@ Key Sections in the Code
 ## Model Evaluation
 
 The performance of each model is evaluated using the Root Mean Squared Error (RMSE):
-
 - LSTM RMSE:  `160.575`
 - Random Forest RMSE: `10.620`
 - ARIMA RMSE: `48.852`
