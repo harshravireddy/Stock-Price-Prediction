@@ -124,12 +124,20 @@ The performance of each model is evaluated using the Root Mean Squared Error (RM
 
 The results of the predictions are visualized in a plot that compares actual prices with predicted prices from the LSTM, Random Forest, and ARIMA models.
 
+### Apple Inc. (AAPL) Stock Price Prediction
+Here is a sample result of the stock price prediction for Apple (AAPL):
+
+![AAPL Stock Price Prediction](./Results_AAPL.png)
+
+### Microsoft Corp. (MSFT) Stock Price Prediction
+Here is a sample result of the stock price prediction for Microsoft (MSFT):
+
+![MSFT Stock Price Prediction](./Results_MSFT.png)
+
 ## License 
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## Additional Notes
- I have predicted only for the apple stock prices.
 
 
 
